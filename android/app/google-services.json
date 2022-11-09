@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046689193737",
+    "project_id": "cmsc23-todo-app-mdiguin-c4l",
+    "storage_bucket": "cmsc23-todo-app-mdiguin-c4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046689193737:android:aa3ab4a8e0601a8aa1fdd8",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046689193737-b231j0cosbn9c2frd3kus8ub1igqac3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMTz2Qbr3uEDs6C5M21L3RCZFgTdU84U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046689193737-b231j0cosbn9c2frd3kus8ub1igqac3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
